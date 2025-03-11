@@ -27,7 +27,7 @@
           <a title="打赏站长" target="_blank" href="/reward.webp">
             <img class="w-8" src="@/assets/images/footer/shang.svg" />
           </a>
-          <a title="Github" target="_blank" rel="nofollow" href="https://github.com/uxiaohan">
+          <a title="Github" target="_blank" rel="nofollow" href="https://github.com/shuaidaoya">
             <img class="w-8" src="@/assets/images/footer/github.svg" />
           </a>
           <a title="帅帅的小站" target="_blank" href="https://boke.ssdxz.us.kg">
