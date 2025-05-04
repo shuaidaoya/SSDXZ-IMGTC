@@ -23,21 +23,15 @@
         </p>
       </section>
       <section class="flex flex-col items-center gap-2">
-      <section class="flex flex-col items-center gap-2">
         <div class="flex gap-6">
-          <!-- 打赏按钮 -->
           <a title="打赏站长" target="_blank" href="/reward.webp">
-            <img class="w-8 hover:scale-110 transition-transform" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0OCIgaGVpZ2h0PSI0OCI+PGNpcmNsZSBjeD0iMjQiIGN5PSIyNCIgcj0iMjIiIGZpbGw9IiM2NjdFRUEiIG9wYWNpdHk9IjAuOSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiLz48cGF0aCBkPSJNMTggMjJsNi02IDYgNiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiLz48cGF0aCBkPSJNMzAgMjZ2NkgxOHYtNiIgZmlsbD0iI2ZmZiIvPjwvc3ZnPg==" />
+            <img class="w-8" src="@/assets/images/footer/shang.svg" />
           </a>
-
-          <!-- Github按钮 -->
           <a title="Github" target="_blank" rel="nofollow" href="https://github.com/shuaidaoya">
-            <img class="w-8 hover:scale-110 transition-transform" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0OCIgaGVpZ2h0PSI0OCI+PGNpcmNsZSBjeD0iMjQiIGN5PSIyNCIgcj0iMjIiIGZpbGw9IiMzMzMiIG9wYWNpdHk9IjAuOSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiLz48cGF0aCBkPSJNMTggMzJsNi02IDYgNi02IDZ6IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmYiIHN0cm9rZS13aWR0aD0iMiIvPjxjaXJjbGUgY3g9IjI0IiBjeT0iMTgiIHI9IjIiIGZpbGw9IiNmZmYiLz48L3N2Zz4=" />
+            <img class="w-8" src="@/assets/images/footer/github.svg" />
           </a>
-
-          <!-- 博客按钮 -->
           <a title="帅帅的小站" target="_blank" href="https://boke.ssdxz.cn">
-            <img class="w-8 hover:scale-110 transition-transform" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0OCIgaGVpZ2h0PSI0OCI+PGNpcmNsZSBjeD0iMjQiIGN5PSIyNCIgcj0iMjIiIGZpbGw9IiM0RkMwOEQiIG9wYWNpdHk9IjAuOSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiLz48cGF0aCBkPSJNMTYgMTZoMTZ2MTZIMTZ6IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmYiIHN0cm9rZS13aWR0aD0iMiIvPjxwYXRoIGQ9Ik0yNCAyMmw0LTRINmwtNCA0IiBmaWxsPSIjZmZmIi8+PC9zdmc+" />
+            <img class="w-8" src="@/assets/images/footer/blog.svg" />
           </a>
         </div>
         <span class="w-full font-bold text-lg text-center">三千雷动图床</span>
